@@ -1,0 +1,2 @@
+This folder contains files pertaining to a data science lecture and lab focused on handling missing data using R.
+Data is from Kaggle.
