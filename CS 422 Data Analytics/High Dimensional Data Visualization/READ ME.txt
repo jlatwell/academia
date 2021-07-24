@@ -1,0 +1,3 @@
+These files pertain to a lecture delivered to students as part of a course requirement.
+The topic for the lecture was High Dimensional Data Visualization.
+This folder includes the lecture slides and notes.
