@@ -1,0 +1,2 @@
+This folder contains files pertaining to a lecture and corresponding lab on handling missing data and data formatting in R.
+Data set used is a modified version of the Historical Plane Crashes data set on Kaggle:  https://www.kaggle.com/nguyenhoc/plane-crash
