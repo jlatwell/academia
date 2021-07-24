@@ -1,0 +1,6 @@
+This directory contains files done as part of the CS 422 Data Analytics class offered at UH Hilo.
+The contents of this directory pertain to two different projects with their own folders:
+- High Dimenstional Data Visualization Lecture Materials
+  - This was a class lecture delivered to other students
+- Using Clutter Reduction and Multi-Dimensional Visualization Methods to Create Exploratory Visualizations of High Dimensional Data Project & Presentation
+  - This was an independent research project
