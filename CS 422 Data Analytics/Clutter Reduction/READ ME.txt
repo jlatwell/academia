@@ -1,0 +1,2 @@
+This folder contains files for an independent project on clutter reduction methods as part of a course.
+The contents include original code, a paper, and a presentation.
