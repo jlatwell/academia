@@ -1,2 +1,8 @@
 This folder contains files for an independent project on clutter reduction methods as part of a course.
-The contents include original code, a paper, and a presentation.
+
+- medicare15.csv is a dataset from Kaggle found here:  https://www.kaggle.com/cms/medicare-skilled-nursing-facility-provider-reports
+- Medicare.R is a file used to reduce clutter from the above data and create visualizations from it
+- fifa19.csv is a dataset from Kaggle found here:  https://www.kaggle.com/karangadiya/fifa19/version/4
+- FIFAStats.R is a file used to reduce clutter from the above data and create visualizations from it
+- The PDF file is a research paper done to document the methods used for this project and report on findings
+- The PowerPoint is a presentation based on the project
